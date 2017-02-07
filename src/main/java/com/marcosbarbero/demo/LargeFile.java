@@ -1,4 +1,16 @@
 package com.marcosbarbero.demo;
+/*
+
+/***************************************************************************
+1) Load the given file into RAM.
+2) Split the big string into words using white-space and punctuation-marks as separator.
+3) Put each word into a hash-map where word is key and frequency is value.
+4) Find the top K most frequent words by using a min-heap, sorted on frequency.
+   (Note: A min-heap is required here, not max-heap)
+   Heap usage will give N*logK performance.
+***************************************************************************/
+
+*/
 
 /**
  * Given a large file that does not fit in memory (say 10GB), find the top 100000
